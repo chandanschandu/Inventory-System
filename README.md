@@ -1,6 +1,6 @@
 # Inventory-System
 
-## Simple Django Web Application with MySQL Database
+## Django Web Application with MySQL Database
 
 This project is a simple web application built using Django for the backend and MySQL for the database. The goal is to create a form where users can enter item details (like name, type, purchase date, and stock availability) and display the submitted entries in a tabular format. The application includes form validation, data storage, and retrieval using JOIN operations between tables.
 
